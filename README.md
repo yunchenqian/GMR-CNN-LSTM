@@ -22,9 +22,9 @@ The final dataset includes :
 
 ## Acknowledgement
 
-The project is based on the following repositories, from which you can explore more about the models and methods by clicking on the respective links:
+The project is based on the following repositories, from which you can explore more about the models and methods by clicking on the respective links :
 
-* UrbanEV (Public)：[https://github.com/IntelligentSystemsLab/UrbanEV.git]
+* UrbanEV (Public): [https://github.com/IntelligentSystemsLab/UrbanEV.git]
  If this project is helpful to your research, please cite :
 > Li, H., Qu, H., Tan, X. et al. (2025). UrbanEV: An Open Benchmark Dataset for Urban Electric Vehicle Charging Demand Prediction. Scientific Data. [Paper in Spring Nature](https://doi.org/10.1038/s41597-025-04874-4)
 
